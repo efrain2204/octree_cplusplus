@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1571810507 source:d:\mis documentos\documentos\codebocksprojects\octreimg\main.cpp
+	<bits/stdc++.h>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+
+1571778128 d:\mis documentos\documentos\codebocksprojects\octreimg\oct_quantizer.h
+	"octreequantizer.h"
+	"color.h"
+	"octree.h"
+
+1571778144 d:\mis documentos\documentos\codebocksprojects\octreimg\octreequantizer.h
+	<iostream>
+	<vector>
+
+1571773631 d:\mis documentos\documentos\codebocksprojects\octreimg\color.h
+	<iostream>
+	<vector>
+
+1571777960 d:\mis documentos\documentos\codebocksprojects\octreimg\octree.h
+	<iostream>
+	<vector>
+
